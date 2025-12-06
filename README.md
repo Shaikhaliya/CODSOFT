@@ -16,6 +16,8 @@ Trained a classification model to predict Iris species using sepal and petal mea
 ### ✅ Task 4 – Sales Prediction
 Created a regression model to predict product sales based on advertising spend.
 
+### ✅ Task 5 – Credit Card Fraud Detection 
+Detecting fraudulent credit card transactions using machine learning techniques.
 ---
 
 ## 🛠 Tech Stack
